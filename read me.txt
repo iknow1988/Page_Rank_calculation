@@ -1,0 +1,7 @@
+***read me****
+==================
+1. Make sure you have JDK installed. You can check it by typing "java -version" in cmd.
+2. Go to the folder containing the jar file from cmd.
+3. Run the .jar(2014280162_PageRankCalculator.jar) file using the following command: java -jar [Input file Location] [Output File Location]
+4. The output file above is not sorted by Page Rank. So, if you want to sort it Run the .jar(2014280162_SortTextFileByPageRank.jar) file using the following command: java -jar [Input file Name]
+5. The Sorted output file will be created in the root folder with the name "InputFileName.Sorted.result".
